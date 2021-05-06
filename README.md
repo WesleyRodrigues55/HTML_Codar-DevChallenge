@@ -71,3 +71,6 @@ Inicie seu projeto utilizando esse template no seu github como um repositório p
 Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
 
 Criado por  <a href="https://github.com/Lorenalgm">Lorena</a> :)
+
+***FEITO***
+feito com flexbox
